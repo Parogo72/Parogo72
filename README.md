@@ -3,6 +3,7 @@
 ## Working on
 
 - Project X, interactive website to play around with planets
+- Main web, to easily browse between projects
 
 ## Socials
 <p align="left">
@@ -17,6 +18,5 @@
 ![](https://komarev.com/ghpvc/?username=Parogo72)
 
 ## Stats
-
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Parogo72&show_icons=true&theme=tokyonight&line_height=27&hide_rank=false&border_radius=10&line_height=28&hide_border=true&count_private=true&text_color=a3a3a3)
 ![Parogo72 Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Parogo72&theme=tokyonight&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3)
