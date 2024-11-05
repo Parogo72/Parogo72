@@ -2,7 +2,7 @@
   
 ## Working on
 
-- Project X, interactive website to play around with planets
+- ![Project X](https://parogo72-project-x.vercel.app/), interactive website to play around with planets
 - Main web, to easily browse between projects
 
 ## Socials
