@@ -1,5 +1,8 @@
 # Hey there 👋! I'm Parogo72
-  
+## Finished
+
+- [Solutions](https://parogo72-solutions.vercel.app/en), calculator of various properties of a dissolution based on provided parameters
+- 
 ## Working on
 
 - [Project X](https://parogo72-project-x.vercel.app/), interactive website to play around with planets
